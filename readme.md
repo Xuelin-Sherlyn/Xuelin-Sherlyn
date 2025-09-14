@@ -2,9 +2,9 @@
 
 <div id="title" align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linxiaoyu-official&show_icons=true&theme=tokyonight)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuelin-Sherlyn&show_icons=true&theme=tokyonight)]
 
-[![bilibili](https://img.shields.io/badge/bilibili-%E6%9E%97%E5%B0%8F%E7%8E%89official-blue)](https://space.bilibili.com/1815675515)
+[![bilibili](https://img.shields.io/badge/bilibili-%e9%9b%aa%e7%90%b3Sherlyn-blue)](https://space.bilibili.com/1815675515)
 [![Twitch](https://img.shields.io/badge/Twitch-linxiaoyu_official-purple)](https://www.twitch.tv/linxiaoyu_official)
 
 ![](https://img.shields.io/badge/C/C++-blue)
