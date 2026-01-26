@@ -1,12 +1,14 @@
 ### Profile
 
+![HeadFile](./image/logo.png)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xuelin-Sherlyn&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuelin_Sherlyn&layout=compact&count_private=false&hide_border=true" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuelin-Sherlyn&layout=compact&count_private=false&hide_border=true" alt="">
 
 <br/>
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xuelin-Sherlyn&layout=compact&hide=Text,AUTO_DETECTED,Other)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xuelin_Sherlyn&layout=compact&hide=Text,AUTO_DETECTED,Other)
 
 <div id="title" align=center>
 
@@ -17,7 +19,5 @@
 ![](https://img.shields.io/badge/XAML-blue)
 ![](https://img.shields.io/badge/ASM-red)
 ![](https://img.shields.io/badge/%e8%99%9a%e6%8b%9f%e4%b8%bb%e6%92%ad%2fUP-orange)
-
-![HeadFile](./image/UserProfile.png)
 
 </div>
