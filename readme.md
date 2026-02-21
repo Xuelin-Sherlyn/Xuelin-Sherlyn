@@ -1,8 +1,19 @@
-### Profile
-
-<br/>
+# UserProfile
 
 ![HeadFile](./image/logo.png)
+
+
+### 你好啊，我是雪琳
+
+我是一名活跃于B站的硬件区VUP，有私有Live2D
+
+目前专注点在STM32系列、Linux和模拟电路，模拟电路我是接近于从小玩起的
+
+我在B站最喜欢的是一个虚拟唱见:[Akie秋绘](https://space.bilibili.com/4176573)
+
+---
+
+<br/>
 
 <div style="margin: 0 auto;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xuelin-Sherlyn&theme=tokyonight" style="width: 684px"/>
