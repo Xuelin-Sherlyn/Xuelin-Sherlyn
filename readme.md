@@ -4,11 +4,13 @@
 
 ![HeadFile](./image/logo.png)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xuelin-Sherlyn&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuelin-Sherlyn&layout=compact&count_private=false&hide_border=true" alt="">
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xuelin_Sherlyn&layout=compact&hide=Text,AUTO_DETECTED,Other)
+<div style="margin: 0 auto;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xuelin-Sherlyn&theme=tokyonight" style="width: 684px"/>
+</div>
+<div style="display: flex; justify-content: center; max-width: 600px; margin: 0 auto;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xuelin-Sherlyn&theme=tokyonight" alt="Repos per Language" style="flex: 1; max-width: 50%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xuelin-Sherlyn&theme=tokyonight" alt="Repos per Language" style="flex: 1; max-width: 50%;">
+</div>
 
 <div id="title" align=center>
 
